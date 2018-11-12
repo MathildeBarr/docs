@@ -12,9 +12,9 @@ applianceId: appliance67
 ---
 # Auth0 Sprint Onboarding
 
-Sprint is Auth0’s enterprise customer onboarding program.  It helps you achieve value quickly by ensuring your setup for success with your Auth0 subscription.
+Sprint is Auth0’s enterprise customer onboarding program.  It helps you achieve value quickly by ensuring you're set up for success with your Auth0 subscription.
 
-All customer's who subscribe to a qualifying 12 month+ subscription agreement obtained through our enterprise sales team  will be offered access to Sprint Onboarding.  However, the engagement varies slightly based on your subscription value, additions and support option. 
+All customers who subscribe to a qualifying 12+ month subscription agreement obtained through Auth0's enterprise sales team  will be offered access to Sprint Onboarding.  However, the engagement varies slightly based on your subscription value, additions and support option. 
 
 ## Sprint Onboarding Overview
 
